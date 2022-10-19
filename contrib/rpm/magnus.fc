@@ -1,0 +1,8 @@
+/usr/bin/magnus-cli		--	gen_context(system_u:object_r:magnus_exec_t,s0)
+/usr/sbin/magnusd		--	gen_context(system_u:object_r:magnus_exec_t,s0)
+/usr/lib(64)?/magnus/magnusd		--	gen_context(system_u:object_r:magnus_exec_t,s0)
+
+/etc/magnus(/.*)?		gen_context(system_u:object_r:magnus_conf_t,s0)
+/var/lib/magnus(/.*)?		gen_context(system_u:object_r:magnus_var_lib_t,s0)
+
+(/var)?/run/magnusd(/.*)?   gen_context(system_u:object_r:magnus_var_run_t,s0)

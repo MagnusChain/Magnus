@@ -1,0 +1,3 @@
+usr/local/bin/magnusd usr/bin
+usr/local/bin/magnus-cli usr/bin
+debian/examples/magnus.conf etc/magnus

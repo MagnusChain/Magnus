@@ -1,0 +1,6 @@
+usr/local/bin/magnus-qt usr/bin
+share/pixmaps/magnus32.xpm usr/share/pixmaps
+share/pixmaps/magnus16.xpm usr/share/pixmaps
+share/pixmaps/magnus128.png usr/share/pixmaps
+debian/magnus-qt.desktop usr/share/applications
+debian/magnus-qt.protocol usr/share/kde4/services/

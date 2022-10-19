@@ -1,0 +1,13 @@
+[Desktop Entry]
+Version=1.0
+Name=MAGNUS
+Comment=MAGNUS P2P Cryptocurrency
+Comment[fr]=MAGNUS, monnaie virtuelle cryptographique pair à pair
+Comment[tr]=MAGNUS, eşten eşe kriptografik sanal para birimi
+Exec=magnus-qt %u
+Terminal=false
+Type=Application
+Icon=magnus128
+MimeType=x-scheme-handler/magnus;
+Categories=Office;Finance;
+StartupWMClass=Magnus-qt

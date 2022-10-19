@@ -1,0 +1,13 @@
+<!DOCTYPE RCC><RCC version="1.0">
+    <qresource prefix="/translations">
+        <file alias="de">locale/magnus_de.qm</file>
+        <file alias="en">locale/magnus_en.qm</file>
+        <file alias="en_US">locale/magnus_en_US.qm</file>
+        <file alias="es">locale/magnus_es.qm</file>
+        <file alias="fr_FR">locale/magnus_fr_FR.qm</file>
+        <file alias="hr_HR">locale/magnus_hr_HR.qm</file>
+        <file alias="ko_KR">locale/magnus_ko_KR.qm</file>
+        <file alias="nl">locale/magnus_nl.qm</file>
+        <file alias="pl">locale/magnus_pl.qm</file>
+    </qresource>
+</RCC>

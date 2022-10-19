@@ -1,0 +1,10 @@
+QT_TS = \
+  qt/locale/magnus_de.ts \
+  qt/locale/magnus_en.ts \
+  qt/locale/magnus_en_US.ts \
+  qt/locale/magnus_es.ts \
+  qt/locale/magnus_fr_FR.ts \
+  qt/locale/magnus_hr_HR.ts \
+  qt/locale/magnus_ko_KR.ts \
+  qt/locale/magnus_nl.ts \
+  qt/locale/magnus_pl.ts
